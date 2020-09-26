@@ -37,7 +37,7 @@ namespace ConsoleLogCidades
         }
         public static void Consulta()
         {
-            Programa p = new Programa();
+            //Programa p = new Programa();
             var cidade = BuscaCidade("PR");
             Console.WriteLine("Cidade: " + cidade.Nome);
             var uf = cidade.UF;
