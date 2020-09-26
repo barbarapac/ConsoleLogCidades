@@ -1,0 +1,12 @@
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\bin\Debug\netcoreapp3.1\ConsoleLogCidades.exe
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\bin\Debug\netcoreapp3.1\ConsoleLogCidades.deps.json
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\bin\Debug\netcoreapp3.1\ConsoleLogCidades.runtimeconfig.json
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\bin\Debug\netcoreapp3.1\ConsoleLogCidades.runtimeconfig.dev.json
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\bin\Debug\netcoreapp3.1\ConsoleLogCidades.dll
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\bin\Debug\netcoreapp3.1\ConsoleLogCidades.pdb
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\obj\Debug\netcoreapp3.1\ConsoleLogCidades.AssemblyInfoInputs.cache
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\obj\Debug\netcoreapp3.1\ConsoleLogCidades.AssemblyInfo.cs
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\obj\Debug\netcoreapp3.1\ConsoleLogCidades.csproj.CoreCompileInputs.cache
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\obj\Debug\netcoreapp3.1\ConsoleLogCidades.dll
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\obj\Debug\netcoreapp3.1\ConsoleLogCidades.pdb
+D:\GitHub\ConsoleLogCidades\ConsoleLogCidades\obj\Debug\netcoreapp3.1\ConsoleLogCidades.genruntimeconfig.cache
