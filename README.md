@@ -1,6 +1,6 @@
 # ConsoleLogCidades
 Melhoria de código.
-- 1° Commit: reescrito código enviado em teste com o objetivo de encotrar suporto erro;
+- 1° Commit: reescrito código enviado em teste com o objetivo de encotrar suposto erro;
 - 2° Commit: melhoria desenvolvida para otimizar código enviado; 
 
 ### Tecnologias utilizadas:
